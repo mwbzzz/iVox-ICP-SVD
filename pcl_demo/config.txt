@@ -1,0 +1,13 @@
+# 配置文件
+
+# PCD文件名
+pcd_name=rabbit.pcd
+
+# IVox分辨率
+ivox_resolution=0.1
+
+# IVox附近类型（NEARBY6或NEARBY26）
+ivox_nearby_type=NEARBY6
+
+# 点云存储结构（KD_TREE, IKD_TREE, IVOX）
+point_cloud_structure=IKD_TREE
